@@ -15,6 +15,7 @@ The X Axis assembly for the MendelMax MK3 3D Printer.
 	- changed the filament sensor to Duet3D filament monitor
 	- changed P.I.N.D.A. probe to SN04-N Inductive Proximity Sensor (5mm)
 	- changed square nuts and threaded inserts to hexagonal nuts (M3)
+	- modified the turbine fan mount to be stronger and have ties support
 
 ## License
 The MIT License.
