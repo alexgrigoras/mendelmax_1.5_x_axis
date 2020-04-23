@@ -3,7 +3,7 @@
 ## Description
 The X Axis assembly for the MendelMax MK3 3D Printer.
 
-![assembly image](Rendered images/x_axis_assembly_1.jpg)
+![assembly image](Images/x_axis_assembly_1.jpg)
 
 ## Assembly
 1. X End Motor and Idler
