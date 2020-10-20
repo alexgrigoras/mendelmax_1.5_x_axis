@@ -5,6 +5,10 @@ The X Axis assembly for the MendelMax MK3 3D Printer.
 
 ![assembly image](Images/x_axis_assembly_1.jpg)
 
+## Versions:
+- v2: Corrected the rod holes alignment on idler and motor end; Added screws on idler to set the correct length on rods (if they are shorter) or to tension the assembly more than on the motor side;
+- v1: First version.
+
 ## Assembly
 1. X End Motor and Idler
 	- created by prusa and edited to fit mendelmax 3d printer
